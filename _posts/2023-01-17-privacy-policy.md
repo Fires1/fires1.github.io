@@ -1,5 +1,6 @@
 ---
 published: true
+layout: info
 ---
 Privacy Policy for Pocket Protocols
 
