@@ -2,8 +2,6 @@
 published: true
 layout: info
 ---
-Terms of Use for Pocket Protocols
-
 # TERMS OF USE
 ## Last updated 01/17/2023
 
