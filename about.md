@@ -2,14 +2,13 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
+Missouri-based EMT-B, currently in Paramedic school. Hobby computer programmer, completely self-taught.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Proficient in C# & Lua, semi-competent with web development pieces. Currently working on Dart/Flutter based proejcts.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[self@samuelada.ms](mailto:self@samuelada.ms)
