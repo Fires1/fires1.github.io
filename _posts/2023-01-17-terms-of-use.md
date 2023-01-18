@@ -1,5 +1,6 @@
 ---
 published: true
+layout: info
 ---
 Terms of Use for Pocket Protocols
 
