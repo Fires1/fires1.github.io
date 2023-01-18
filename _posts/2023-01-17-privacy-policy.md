@@ -2,8 +2,6 @@
 published: true
 layout: info
 ---
-Privacy Policy for Pocket Protocols
-
 # PRIVACY NOTICE
 ## Last updated January 17, 2023
 
